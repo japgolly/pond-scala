@@ -9,7 +9,7 @@ object Dependencies {
     // Exported
     val scala2          = "2.13.6"
     val scala3          = "3.0.0"
-    val scalaCollCompat = "2.4.4"
+    val scalaCollCompat = "2.5.0"
     val scalaz          = "7.2.32"
     val sourceCode      = "0.2.7"
     val univEq          = "1.4.0"
